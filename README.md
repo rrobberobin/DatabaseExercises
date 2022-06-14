@@ -1,1 +1,1 @@
-Creating a relational database: appending tables and rows by using SQL
+Creating a relational database using SQL. Appending tables and rows
