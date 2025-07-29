@@ -1,2 +1,2 @@
-- Project: Database design and construction for a fictional construction company. 
-- Exercises: Creating relational databases using SQL. Appending tables and rows. 
+- **Project**: Database design and construction for a fictional construction company. 
+- **Exercises**: Creating relational databases using SQL. Appending tables and rows. 
